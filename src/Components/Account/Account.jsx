@@ -1,5 +1,5 @@
 import React from 'react'
-import accountImg from '../../Assets/Images/selectAcc.'
+import accountImg from '../../Assets/Images/'
 export default function Account() {
   return<>
   <div className="container ">
