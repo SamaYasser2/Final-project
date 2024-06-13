@@ -1,0 +1,67 @@
+
+
+.class-img1{
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: rgb(230, 229, 229);
+}
+.books img{
+height: 200px;
+width: 150px;
+}
+
+iframe{
+  border-radius: 15px;
+  box-shadow:  rgba(107, 107, 107, 0.048) 0px 19px 38px, rgba(0, 0, 0, 0.041) 0px 15px 12px;
+}
+
+.session-no{
+  color: #1679AB;
+}
+.video-container{
+  border-radius: 15px;
+}
+.session-header{
+  border-radius: 5px;
+}
+.hello-name{
+  color: #1679AB;
+}
+.session-card{
+  border-radius: 10px;
+  box-shadow:  rgba(107, 107, 107, 0.048) 0px 19px 38px, rgba(0, 0, 0, 0.041) 0px 15px 12px;
+}
+
+.session-card h6{
+  color: #1679AB;
+}
+
+.btn1 {
+  border:solid 1px #074173 !important;
+  width:  100px;
+  color: white  !important;
+  background-color: #074173  !important;
+  transition: all 0.5s  !important;
+}
+.btn1:hover {
+  border:solid 1px #074173  !important;
+  background-color: white  !important;
+  color: #074173  !important;
+ 
+}
+
+.assignments ,.posts{
+  border-radius: 15px;
+  box-shadow:  rgba(107, 107, 107, 0.11) 0px 19px 38px, rgba(0, 0, 0, 0.151) 0px 15px 12px;
+}
+
+.assignments img{ 
+  width: 150px;
+  height: 150px;
+}
+
+.empty-post i{
+  font-size: 50px;
+  color: #074173;
+}

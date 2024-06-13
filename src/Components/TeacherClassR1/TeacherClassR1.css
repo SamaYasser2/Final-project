@@ -1,0 +1,49 @@
+.student-card,.Account-card ,.classes, .my-posts, .st-assignment{
+    border-radius: 15px;
+  box-shadow:   rgba(107, 107, 107, 0.11) 0px 19px 38px, rgba(0, 0, 0, 0.151) 0px 15px 12px;
+}
+
+.btn1 {
+    border:solid 1px #074173 !important;
+    width:  100px;
+    color: white  !important;
+    background-color: #074173  !important;
+    transition: all 0.5s  !important;
+  }
+  .btn1:hover {
+    border:solid 1px #074173  !important;
+    background-color: white  !important;
+    color: #074173  !important;
+   
+  }
+
+  .live-card h6{
+    color: #1679AB;
+  }
+  .classes{
+    overflow-y: scroll;
+    height: 200px;
+  }
+  
+
+  .circle{
+    border: 9px #074173 solid;
+    border-radius: 100%;
+    background-color:#ffffff;
+    transition: all 0.5s;
+    width: 90px;
+    height: 90px;
+    }
+    .circle i{
+      color: rgb(0, 0, 0);
+      
+    }
+    .circle:hover i{
+      color: #C6FF96
+    }
+    
+    .circle:hover{
+        background-color:#074173;
+        border: 9px solid  #1679AB;
+        color: #C6FF96 
+    }

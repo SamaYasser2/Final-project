@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #03213b;
+  }
+  .navbar i{
+    color: #C5FF95;
+  }
+  
+  .navbar-toggler{
+    background-color: #074173;
+    border: 2px solid #C5FF95;
+    color: #C5FF95;
+  }
+  .navbar-toggler:focus{
+   box-shadow: none;
+  }
+  .navbar-toggler-icon span{
+  fill: #C5FF95;
+  }
