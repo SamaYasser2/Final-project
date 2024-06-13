@@ -1,5 +1,5 @@
 import React from 'react'
-import accountImg from '../../Assets/Images/selectAcc'
+import accountImg from '../../Assets/Images/selectAcc.'
 export default function Account() {
   return<>
   <div className="container ">
@@ -8,6 +8,8 @@ export default function Account() {
     <div className="account">
         <div className="select">
             <img src={accountImg} alt="" />
+            <div className="title"></div>
+           
         </div>
     </div>
 </div>
