@@ -37,8 +37,8 @@ export default function Selectedreligion() {
        </div>
       
         <div className="buttons d-flex mt-5 justify-content-center ">
-        <Link to="#" id='btn1' className=" btn rounded-pill"> Enroll in course</Link>
-        <Link to="#" id='btn2' className=" btn rounded-pill mx-3"> Chat <i class="fa-regular fa-comments" ></i></Link>
+        <Link to="#"  className="btn1 btn rounded-pill"> Enroll in course</Link>
+        <Link to="#"  className="btn2 btn rounded-pill mx-3"> Chat <i class="fa-regular fa-comments" ></i></Link>
 </div>
             </div>
         </div>

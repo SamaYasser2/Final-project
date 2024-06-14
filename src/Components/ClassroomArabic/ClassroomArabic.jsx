@@ -107,7 +107,7 @@ export default function ClassroomArabic() {
         <div className="session-card mt-4 p-2">
           <div className="session-buy d-flex justify-content-between ">
             <h6 className='fw-bold'>Session 1</h6>
-            <Link to="#" className="btn btn1 rounded-pill">Buy Now</Link>
+            <Link to="#" className="btn btn3 rounded-pill">Buy Now</Link>
           </div>
           <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
         </div>
@@ -115,7 +115,7 @@ export default function ClassroomArabic() {
         <div className="session-card mt-4 p-2">
           <div className="session-buy d-flex justify-content-between ">
             <h6 className='fw-bold'>Session 2</h6>
-            <Link to="#" className="btn btn1 rounded-pill">Buy Now</Link>
+            <Link to="#" className="btn btn3 rounded-pill">Buy Now</Link>
           </div>
           <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
         </div>
@@ -123,7 +123,7 @@ export default function ClassroomArabic() {
         <div className="session-card mt-4 p-2">
           <div className="session-buy d-flex justify-content-between ">
             <h6 className='fw-bold'>Session 3</h6>
-            <Link to="#" className="btn btn1 rounded-pill">Buy Now</Link>
+            <Link to="#" className="btn btn3 rounded-pill">Buy Now</Link>
           </div>
           <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
         </div>
@@ -131,7 +131,7 @@ export default function ClassroomArabic() {
         <div className="session-card mt-4 p-2">
           <div className="session-buy d-flex justify-content-between ">
             <h6 className='fw-bold'>Session 4</h6>
-            <Link to="#" className="btn btn1 rounded-pill">Buy Now</Link>
+            <Link to="#" className="btn btn3 rounded-pill">Buy Now</Link>
           </div>
           <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
         </div>
@@ -139,7 +139,7 @@ export default function ClassroomArabic() {
         <div className="session-card mt-4 p-2">
           <div className="session-buy d-flex justify-content-between ">
             <h6 className='fw-bold'>Session 5</h6>
-            <Link to="#" className="btn btn1 rounded-pill">Buy Now</Link>
+            <Link to="#" className="btn btn3 rounded-pill">Buy Now</Link>
           </div>
           <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
         </div>

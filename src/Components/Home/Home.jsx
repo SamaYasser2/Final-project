@@ -28,8 +28,8 @@ export default function Home() {
                 Start your learning journey today with Edudu to become an outstanding student in our 
                 learning community.</p>
            <div className="home-buttons mt-5 d-flex justify-content-center">
-            <Link  id='btn1' className=' btn rounded-pill'>Learn More</Link>
-            <Link id='btn2' className=" btn rounded-pill  mx-3" to="https://www.youtube.com/">
+            <Link  className='btn1 btn rounded-pill'>Learn More</Link>
+            <Link  className="btn2 btn rounded-pill  mx-3" to="https://www.youtube.com/">
               <i className="fa-solid fa-play"></i> Watch a Video</Link>
            </div>
             
@@ -52,7 +52,7 @@ export default function Home() {
                      <div class="card-body text-center">
                       <h2>Arabic</h2>
                 <p class="card-text">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
-                <Link id='btn1' to="/SubjectArabic" className='btn rounded-pill'>Join Now</Link>
+                <Link  to="/SubjectArabic" className='btn1  btn rounded-pill'>Join Now</Link>
                   </div>
                     </div>
                     </div>
@@ -63,7 +63,7 @@ export default function Home() {
                      <div class="card-body text-center">
                       <h2>Religion</h2>
                 <p class="card-text">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
-                <Link id='btn1' to="/SubjectReligion" className='btn rounded-pill'>Join Now</Link>
+                <Link  to="/SubjectReligion" className='btn1  btn rounded-pill'>Join Now</Link>
                   </div>
                     </div>
           </div>
@@ -74,7 +74,7 @@ export default function Home() {
                      <div class="card-body text-center">
                       <h2>History</h2>
                 <p class="card-text">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
-                <Link id='btn1' className='btn rounded-pill'>Join Now</Link>
+                <Link  className='btn1  btn rounded-pill'>Join Now</Link>
                   </div>
                     </div>
           </div>
@@ -151,7 +151,7 @@ export default function Home() {
 
   <textarea name="" id="" cols="30" rows="5" placeholder="Message" className="form-control "></textarea>
 </div>
-<Link id='btn1' className="btn rounded-pill">Submit</Link>
+<Link  className=" btn1 btn rounded-pill">Submit</Link>
 </form>
 </div>
        </div>
