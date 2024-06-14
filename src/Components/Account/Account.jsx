@@ -10,7 +10,6 @@ export default function Account() {
             <img src={accountImg} alt="" />
             <div className="title"></div>
            
-        </div>
     </div>
 </div>
   </div>
