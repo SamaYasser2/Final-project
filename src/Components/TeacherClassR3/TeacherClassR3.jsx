@@ -126,7 +126,7 @@ export default function TeacherClassR3() {
 
                   <form id="message-form">
                     <input type="text" id='message-input' className='form-control rounded-pill' placeholder='Enter your notes..' />
-                    <button className='btn btn1 rounded-pill my-1' type="submit">Send</button>
+                    <button className='btn btn3 rounded-pill my-1' type="submit">Send</button>
                   </form>
 
 
@@ -159,7 +159,7 @@ export default function TeacherClassR3() {
               <div className="live-card mt-4 p-2">
                 <div className=" d-flex justify-content-between ">
                   <h6 className='fw-bold'>Session 1</h6>
-                  <Link to="#" className="btn btn1 rounded-pill">Start live</Link>
+                  <Link to="#" className="btn btn3 rounded-pill">Start live</Link>
                 </div>
                 <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
               </div>
@@ -167,7 +167,7 @@ export default function TeacherClassR3() {
               <div className="live-card mt-4 p-2">
                 <div className=" d-flex justify-content-between ">
                   <h6 className='fw-bold'>Session 2</h6>
-                  <Link to="#" className="btn btn1 rounded-pill">Start live</Link>
+                  <Link to="#" className="btn btn3 rounded-pill">Start live</Link>
                 </div>
                 <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
               </div>
@@ -175,7 +175,7 @@ export default function TeacherClassR3() {
               <div className="live-card mt-4 p-2">
                 <div className=" d-flex justify-content-between ">
                   <h6 className='fw-bold'>Session 3</h6>
-                  <Link to="#" className="btn btn1 rounded-pill">Start live</Link>
+                  <Link to="#" className="btn btn3 rounded-pill">Start live</Link>
                 </div>
                 <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
               </div>
@@ -183,7 +183,7 @@ export default function TeacherClassR3() {
               <div className="live-card mt-4 p-2">
                 <div className=" d-flex justify-content-between ">
                   <h6 className='fw-bold'>Session 4</h6>
-                  <Link to="#" className="btn btn1 rounded-pill">Start live</Link>
+                  <Link to="#" className="btn btn3 rounded-pill">Start live</Link>
                 </div>
                 <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
               </div>
@@ -191,7 +191,7 @@ export default function TeacherClassR3() {
               <div className="live-card mt-4 p-2">
                 <div className=" d-flex justify-content-between ">
                   <h6 className='fw-bold'>Session 5</h6>
-                  <Link to="#" className="btn btn1 rounded-pill">Start live</Link>
+                  <Link to="#" className="btn btn3 rounded-pill">Start live</Link>
                 </div>
                 <div className="session-time"> Starts at <span id='session-time' className='fw-bold'> 10:00 AM</span></div>
               </div>

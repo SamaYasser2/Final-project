@@ -1,0 +1,124 @@
+.side-icons i{
+    background-color:#C6FF96 ;
+}
+
+
+
+.account{
+    width: 40px;
+}
+.account img{
+    width: 100%;
+}
+/* overview page css */
+.cat{
+    display: flex;
+    justify-content: space-around;
+}
+.cat a{
+    text-decoration: none;
+}
+.black a{
+    color: black;
+}
+.user{
+    background-color: #023F75;
+    color: white;
+    padding: 2px 1px;
+    border-radius: 5px;
+}
+/* Attendance Page */
+.course-name{
+    display: flex;
+}
+.attendance-bg{
+    background-color: rgba(109, 198, 32, 0.3);
+    color: #479700;
+}
+.complete-bg{
+    background-color: rgb(15, 122, 174, 0.3);
+    color: #0F7AAE;
+}
+.divition{
+    display: flex;
+    justify-content: space-between;
+}
+.right-side{
+    gap: 10%;
+}
+
+.not-attendance-bg{
+    background-color: rgb(221, 94, 85, 0.3);
+    color: #922206;
+}
+.learning-time-bg{
+    background-color: rgba(234, 190, 31, 0.3);
+    color: rgba(234, 190, 31 );
+}
+
+.attendance{
+    width: 80%;
+    padding: 6px 13px;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+}
+.attendance span{
+    color: black;
+}
+.Attendance-choice{
+    display: flex;
+    width: 70%;
+    padding: 15px 15px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 10px;
+    position: relative;
+}
+.Testes-choice{
+    display: flex;
+    width: 70%;
+    position: relative;
+    padding: 15px 15px;
+}
+.Attendance-choice h6{
+color: #023F75;
+}
+.attendanceIcon{
+    background-color: #023F75;
+   
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+   position: relative;
+    color: white;
+}
+.attendanceIcon i{
+    position: relative;
+    left: 34%;
+    top: 7px;
+    font-size: 16px;
+
+}
+.TestIcon{
+    background-color: rgb(243, 235, 235);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 18px;
+    color: black;
+    position: relative;
+}
+.TestIcon i{
+    position: relative;
+    left: 33%;
+    top: 5px;
+font-size: 20px;
+}
+.Testes-choice a{
+    color: rgb(71, 69, 69);
+}
+.right-side a{
+    text-decoration: none;
+}

@@ -5,7 +5,8 @@ body {
   background-color: white !important;
   font-family: sans-serif;
   padding-top: 70px!important;
-  overflow-x:hidden
+  overflow-x:hidden;
+  
     /* scroll-margin-top: 100px !important; */
 }
 
@@ -20,32 +21,32 @@ code {
   color: #1679AB;
 }
 
-#btn1 {
-  border:solid 1px #074173;
-  width:  150px;
-  color: white;
-  background-color: #074173;
-  box-shadow: rgba(0, 0, 0, 0.400) 0px 5px 15px;
-  transition: all 0.5s;
+.btn1 {
+  border:solid 1px #074173 !important;
+  width:  150px !important;
+  color: white !important;
+  background-color: #074173 !important;
+  box-shadow: rgba(0, 0, 0, 0.400) 0px 5px 15px !important;
+  transition: all 0.5s !important;
 }
-#btn1:hover {
-  border:solid 1px #074173;
-  background-color: white;
-  color: #074173;
+.btn1:hover {
+  border:solid 1px #074173 !important;
+  background-color: white !important;
+  color: #074173 !important;
  
 }
-#btn2 {
-  border:solid 1px #074173;
-  width:  150px;
-  color: #074173;
-  background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.400) 0px 5px 15px;
-  transition: all 0.5s;
+.btn2 {
+  border:solid 1px #074173 !important;
+  width:  150px !important;
+  color: #074173 !important;
+  background-color: white !important;
+  box-shadow: rgba(0, 0, 0, 0.400) 0px 5px 15px !important;
+  transition: all 0.5s !important;
 }
-#btn2:hover {
-  border:solid 1px #074173;
-  color: white;
-  background-color: #074173;
+.btn2:hover {
+  border:solid 1px #074173 !important ;
+  color: white !important;
+  background-color: #074173 !important;
 }
 
 

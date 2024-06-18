@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useState } from 'react'
+
 import { Link } from 'react-router-dom'
 import './SignUp.css'
 import $ from 'jquery'
@@ -273,7 +274,7 @@ export default function SignUp() {
 									<h6 class="margin-buttom">Upload your Child Picture</h6>
 									<input id="acon" name="Child-photo" type="file"/></div>
 							<div class="form-group clearfix">
-								<Link to="javascript:;" class="form-wizard-previous-btn  float-left">Previous</Link>
+								<Link to="javascript:;" class="form-wizard-previous-btn btn2 float-left">Previous</Link>
 								<Link to="javascript:;" class="form-wizard-submit float-right">Submit</Link>
 							</div>
 						</fieldset>	

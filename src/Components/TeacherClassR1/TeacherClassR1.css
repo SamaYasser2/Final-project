@@ -3,14 +3,14 @@
   box-shadow:   rgba(107, 107, 107, 0.11) 0px 19px 38px, rgba(0, 0, 0, 0.151) 0px 15px 12px;
 }
 
-.btn1 {
+.btn3 {
     border:solid 1px #074173 !important;
     width:  100px;
     color: white  !important;
     background-color: #074173  !important;
     transition: all 0.5s  !important;
   }
-  .btn1:hover {
+  .btn3:hover {
     border:solid 1px #074173  !important;
     background-color: white  !important;
     color: #074173  !important;

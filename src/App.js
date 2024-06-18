@@ -16,8 +16,11 @@ import TeacherClassR2 from './Components/TeacherClassR2/TeacherClassR2'
 import TeacherClassR3 from './Components/TeacherClassR3/TeacherClassR3'
 import AdminPage from './Components/AdminPage/AdminPage'
 import Account from './Components/Account/Account'
+import AttendanceAdmin from './Components/AdminPage/AttendanceAdmin'
+import TestesAdmin from './Components/AdminPage/TestesAdmin'
 
 let routers = createBrowserRouter([
+  
   {
     path: '', element: <Layout />, children: [
       { index: true, element: <Home /> },
@@ -35,6 +38,8 @@ let routers = createBrowserRouter([
       { path: 'TeacherClassR3', element: <TeacherClassR3 /> },
       { path: 'AdminPage', element: <AdminPage /> },
       { path: 'Account', element: <Account /> },
+      { path: 'AttendanceAdmin',element: <AttendanceAdmin/>},
+      { path: 'TestesAdmin',element: <TestesAdmin/>},
 
     ]
   }

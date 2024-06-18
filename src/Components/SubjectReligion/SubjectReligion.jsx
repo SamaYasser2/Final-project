@@ -61,7 +61,7 @@ export default function SubjectReligion() {
             <div className="card-body text-center">
               <h5 className="card-title">Teacher 1</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to={'/Selectedreligion'} id="btn1" className="btn  rounded-pill">Select</Link>
+              <Link to={'/Selectedreligion'} className="btn btn1 rounded-pill">Select</Link>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function SubjectReligion() {
                 <div className="card-body  text-center">
                   <h5 className="card-title">Teacher 2</h5>
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <Link to="#" id="btn1" className="btn  rounded-pill">Select</Link>
+                  <Link to="#"  className="btn btn1 rounded-pill">Select</Link>
                 </div>
               </div>
             </div>
