@@ -14,6 +14,7 @@ export default function Home() {
   
 
   return<>
+
     <div id='Home' className="Header">
         <div className="container py-5">
 <div className="row">
@@ -59,7 +60,7 @@ export default function Home() {
 
                     <div className="col-md-4  my-3">
             <div class="card subject-transf overflow-hidden" style={{width:' 20rem'}}>
-                <img src={religion} class="card-img-top" alt="Arabic"/>
+                <img src={religion} class="card-img-top" alt="Religion"/>
                      <div class="card-body text-center">
                       <h2>Religion</h2>
                 <p class="card-text">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
@@ -70,7 +71,7 @@ export default function Home() {
 
           <div className="col-md-4 my-3">
             <div class="card subject-transf overflow-hidden" style={{width:' 20rem'}}>
-                <img src={history} class="card-img-top" alt="Arabic"/>
+                <img src={history} class="card-img-top" alt="History"/>
                      <div class="card-body text-center">
                       <h2>History</h2>
                 <p class="card-text">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>

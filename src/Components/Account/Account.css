@@ -1,0 +1,17 @@
+.accimg img{
+    width: 150;
+    height: 150px;
+}
+
+.accimg img{
+ transition: all 0.7s;
+}
+
+.accimg:hover img{
+transform: scale(1.1);
+}
+
+.hidden-text{
+    color:transparent
+}
+
